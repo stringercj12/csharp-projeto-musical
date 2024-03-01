@@ -1,0 +1,14 @@
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.deps.json
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.runtimeconfig.json
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.dll
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/bin/Debug/net8.0/csharp-projeto-musical.pdb
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.GeneratedMSBuildEditorConfig.editorconfig
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfoInputs.cache
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.AssemblyInfo.cs
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.csproj.CoreCompileInputs.cache
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.dll
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/refint/csharp-projeto-musical.dll
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
