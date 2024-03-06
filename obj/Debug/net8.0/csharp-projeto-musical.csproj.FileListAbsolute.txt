@@ -12,3 +12,4 @@
 /home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.pdb
 /home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.genruntimeconfig.cache
 /home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/ref/csharp-projeto-musical.dll
+/home/jefferson/projetos/estudos/csharp/csharp-projeto-musical/obj/Debug/net8.0/csharp-projeto-musical.sourcelink.json

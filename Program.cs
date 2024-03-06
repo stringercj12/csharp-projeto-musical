@@ -137,7 +137,7 @@ void ExibirMediaDasNotasDaBanda()
   if (bandasRegistradas.ContainsKey(nomeDaBanda))
   {
     List<int> notasDaBanda = bandasRegistradas[nomeDaBanda];
-   
+
     Console.WriteLine($"\nA média da banda {nomeDaBanda} é {notasDaBanda.Average()}.");
     Console.WriteLine("\nDigite qualquer tecla para voltar ao menu principal");
     Console.ReadKey();
@@ -154,4 +154,46 @@ void ExibirMediaDasNotasDaBanda()
   }
 }
 
-ExibirOpcoesDoMenu();
+// ExibirOpcoesDoMenu();
+
+Banda queen = new Banda("Queen");
+
+Album albumDoQueen = new Album("A night at the opera");
+
+Musica musica1 = new Musica(queen, "Love of my life")
+{
+  Duracao = 213,
+  Disponivel = true
+};
+
+Musica musica2 = new Musica(queen, "Bohemian Rhapsody")
+{
+  Duracao = 354,
+  Disponivel = false
+};
+
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
+queen.AdicionarAlbum(albumDoQueen);
+
+musica1.ExibirFichaTecnica();
+musica2.ExibirFichaTecnica();
+albumDoQueen.ExibirMusicasDoAlbum();
+queen.ExibirDiscografia();
+
+Console.WriteLine("\n\n----------- PODCAST -----------\n\n");
+
+
+Episodio episodio1 = new Episodio(2, "Técnicas de facilitação", 45);
+episodio1.AdicionarConvidados("Maria");
+episodio1.AdicionarConvidados("Marcelo");
+
+Episodio episodio2 = new Episodio(1, "Técnicas de aprendizado", 67);
+episodio2.AdicionarConvidados("Fernando");
+episodio2.AdicionarConvidados("Marcos");
+episodio2.AdicionarConvidados("Flávia");
+
+Podcast podcast1 = new Podcast("Podcast especial", "Jefferson");
+podcast1.AdicionarEpisodios(episodio1);
+podcast1.AdicionarEpisodios(episodio2);
+podcast1.ExibirDetalhes();
